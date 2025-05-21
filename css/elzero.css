@@ -453,6 +453,7 @@ header .mega-menu .links li a i {
 .articles .info a {
     color: var(--main-color);
     font-weight: bold;
+    width: 100%;
 }
 
 .articles .info i {
@@ -1949,4 +1950,10 @@ header .mega-menu .links li a i {
 
 .articles h3 {
     text-transform: uppercase;
+}
+
+.articles .box span {
+    color: var(--main-color);
+    font-size: 18px;
+    font-weight: bold;
 }
